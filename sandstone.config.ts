@@ -21,5 +21,5 @@ export default {
   // saveOptions: {
   //   world: "Test World",
   // },
-  saveOptions: { path: "./.sandstone/output/datapack" },
+  saveOptions: { clientPath: "./output/datapack" },
 } as SandstoneConfig;

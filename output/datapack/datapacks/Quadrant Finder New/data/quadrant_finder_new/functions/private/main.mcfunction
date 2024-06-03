@@ -1,0 +1,2 @@
+function quadrant_finder_new:private/display_coords
+function quadrant_finder_new:private/update_position

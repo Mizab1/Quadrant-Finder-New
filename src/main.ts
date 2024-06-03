@@ -54,5 +54,3 @@ const main = MCFunction(
     runEveryTick: true,
   }
 );
-
-// console.log(posX.objective.display);
